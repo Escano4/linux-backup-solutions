@@ -11,7 +11,7 @@
 ## Как использовать
 1. Скачайте репозиторий:
    ```bash
-   git clone https://github.com/ваш_логин/linux-backup-solutions.git
+   git clone https://github.com/Escano4/linux-backup-solutions.git
 2. Сделайте скрипты исполняемыми:
    ```bash
    chmod +x incremental-backup.sh encrypt-backup.sh setup-cron-job.sh restore-backup.sh
